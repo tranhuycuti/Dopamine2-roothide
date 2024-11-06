@@ -1,3 +1,6 @@
+# If you can't fork my project of roothide's project...
+If you can't fork my project or roothide's project (it's too difficult.., I feel the same =))), then you can download my tipa file which is released in "Release" section. I will update new tipa patches when roothide updates them. Stay tuned!!!
+
 # Dopamine2-roothide
 
 - Document: https://github.com/roothide/Developer
@@ -5,7 +8,6 @@
 - Support: https://twitter.com/roothideDev
 
 - Discord: https://discord.com/invite/scqCkumAYp
-
 
 # How To Build tipa file
 
